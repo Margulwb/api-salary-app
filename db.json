@@ -1,0 +1,32 @@
+{
+  "users":[
+      {
+          "id":1,
+          "name":"margul",
+          "firstName":"Maciej",
+          "secoundName":"Gurgul",
+          "position":"Front-End Developer"
+      },
+      {
+          "id":2,
+          "name":"davth",
+          "firstName":"David",
+          "secoundName":"Smith",
+          "position":"Front-End Developer"
+      },
+      {
+          "id":3,
+          "name":"geoker",
+          "firstName":"George",
+          "secoundName":"Walker",
+          "position":"Back-End Developer"
+      },
+      {
+          "id":4,
+          "name":"emiod",
+          "firstName":"Emily",
+          "secoundName":"Wood",
+          "position":"UX / UI"
+      }
+  ]
+}
